@@ -2,6 +2,10 @@
 
 This is the curriculum for [AI Humanities](https://youtu.be/GlEUbETaoHk) by Siraj Raval on Youtube. This is a sequential list of books to read (audiobooks at 3x speed for 1 hour a day) in order to learn more about AI and related disciplines in psychology, physics, ethics, and medicine.  
 
+## Join our [slack](http://wizards.herokuapp.com) and join the #school-of-ai-book-club channel 
+
+## Challenge -- If you finish this curriculum, tweet @sirajraval with the hashtag AI_Humanities_Challenge for a shoutout. Good luck!
+
 
 
 1. [The Master Algorithm by Pedro Domingos](https://amzn.to/2FDCer0)
