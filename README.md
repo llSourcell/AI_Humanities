@@ -4,7 +4,7 @@ This is the curriculum for [AI Humanities](https://youtu.be/GlEUbETaoHk) by Sira
 
 ## Join our [slack](http://wizards.herokuapp.com) and join the #school-of-ai-book-club channel 
 
-## Challenge -- If you finish this curriculum, tweet @sirajraval with the hashtag AI_Humanities_Challenge for a shoutout. Good luck!
+### Challenge - If you finish this curriculum, tweet @sirajraval with the hashtag AI_Humanities_Challenge for a shoutout. Good luck!
 
 
 
